@@ -8,7 +8,7 @@ Clone this repository
 pip install -r requirements.txt
 ```
 ## Follow the guide next
-For a step by step guide from creation of the spider crawler to implement multipage scraper checkout our blog at https://thecodework.com/blog/spider-crawling-for-data-scraping-with-python-and-scrapy/
+For a step by step guide from creation of the spider crawler to implementing multipage scraper checkout our blog at https://thecodework.com/blog/spider-crawling-for-data-scraping-with-python-and-scrapy/
 
 If you need any help or have any query, do reach out to me at https://thecodework.com/contact-us/
 
